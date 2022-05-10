@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SagarManjuMaharana
 - 👀 I’m interested in Upskilling Myself
-- 🌱 I’m currently learning javascript and python
+- 🌱 I’m currently learning javascript and golang
 - 💞️ I’m looking to collaborate on problem solving
 - 📫 How to reach me Email : sagar.manju.maharana@gmail.com; Twitter : https://twitter.com/SMaharana_98
 
